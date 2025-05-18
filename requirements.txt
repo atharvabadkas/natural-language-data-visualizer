@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+matplotlib
+streamlit
+requests
+langchain-core
+langchain-community
+langchain-ollama
+huggingface-hub
+sentence-transformers
+faiss-cpu
+seaborn
+plotly
+pydantic
+numpy 
